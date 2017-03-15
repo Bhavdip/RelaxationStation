@@ -8,7 +8,7 @@ import React, { Component } from 'react';
 import {
   AppRegistry,
   Text,
-  Navigator,
+  Navigaor,
 } from 'react-native';
 import StartScreen from './StartScreen'
 import QuotesScreen from './QuotesScreen'
